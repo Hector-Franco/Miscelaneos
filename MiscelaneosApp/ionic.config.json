@@ -1,0 +1,7 @@
+{
+  "name": "MiscelaneosApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
